@@ -1,3 +1,3 @@
 Avahi-onboarding-diego
 
-2026
+2026Contenido versión B
