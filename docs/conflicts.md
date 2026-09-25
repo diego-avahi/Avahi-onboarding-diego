@@ -1,0 +1,1 @@
+We have the conflict in readme.md with feature/tkk-003-rama-a and feature/tkk-003-rama-b we resolved accepted only the changes from rama-a
